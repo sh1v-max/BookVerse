@@ -19,13 +19,7 @@ A sleek and modern book discovery platform built with **React.js**. Explore mill
 * Quick-access search suggestions: *Harry Potter, Sci-Fi, Mystery, Romance, Biography*.
 * Shows **top search results** with detailed book information.
 
-### 2. **Filters**
-
-* Filter search results by **author**.
-* Filter books by **publication year** (1950–2025).
-* Easily combine search + filters for precise results.
-
-### 3. **Trending Books**
+### 2. **Trending Books**
 
 * Daily, weekly, and monthly trending books sections.
 * Horizontally scrollable lists with left/right arrows.
@@ -42,13 +36,13 @@ A sleek and modern book discovery platform built with **React.js**. Explore mill
   * Publication info & edition count
 * Clean layout with centered main container.
 
-### 5. **Modern UI/UX**
+### 4. **Modern UI/UX**
 
 * **Glassy header and footer** with blur effects for a sleek look.
 * Responsive design for mobile and desktop.
 * Smooth scroll and hover animations for interactive feel.
 
-### 6. **Components**
+### 5. **Components**
 
 * `SearchBook` – Search bar with suggestions
 * `BookList` – Display books in grid or horizontal scroll
@@ -57,7 +51,7 @@ A sleek and modern book discovery platform built with **React.js**. Explore mill
 * `Book` – Detailed book page
 * `Header` & `Footer` – Modern glassy navigation
 
-### 7. **Hooks**
+### 6. **Hooks**
 
 * `useBooks` – Handles fetching and state for searched books
 * `useTrendingBooks` – Handles fetching trending books (daily, weekly, monthly)
